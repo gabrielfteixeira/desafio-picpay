@@ -17,7 +17,7 @@ O desafio consiste em criar API para transações entre usuários e lojas, segui
 
 - Java
 - Spring Framework (Spring Boot, Spring MVC)
-- Banco de dados (ex: MySQL, PostgreSQL)
+- Banco de dados  MySQL
 
 ## Instalação e Uso
 
